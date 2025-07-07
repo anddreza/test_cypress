@@ -1,0 +1,15 @@
+{
+  "usuarioSucesso": {
+    "nome": "Usuario Teste",
+    "email": "user@teste.com.br",
+    "senha": "123123"
+  },
+  "usuarioErro": {
+    "nome": "Usuario Teste",
+    "email": "user@teste.com.br",
+    "senha": ""
+  },
+  "usuarioRecuperarSenha": {
+    "email": "user@teste.com.br"
+  }
+}
